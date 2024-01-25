@@ -99,7 +99,7 @@ it will install the required gemfile for running the project
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome.!
 
 Feel free to check the [issues page](https://github.com/AbuTalha3/hello-react-front-end/issues).
 
