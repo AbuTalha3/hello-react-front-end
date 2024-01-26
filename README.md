@@ -117,7 +117,7 @@ If you find this project helpful or interesting, star this repository on GitHub 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse.
+I would like to thank Microverse for providing an opportunity to learn.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
