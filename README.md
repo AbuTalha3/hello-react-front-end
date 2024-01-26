@@ -25,7 +25,7 @@
 
 ## 📖 React App <a name="about-project"></a>
 
-**React App** is the user-facing component of the application. It integrates with the `Rails API`, making asynchronous calls to fetch and display random greetings to users..<br>**Here is the [link](https://github.com/AbuTalha3/hello-rails-back-end/tree/feature-back-end) for the backend.**
+**React App** is the user-facing component of the application. It integrates with the **`Rails API`**, making asynchronous calls to fetch and display random greetings to users..<br>**Here is the [link](https://github.com/AbuTalha3/hello-rails-back-end/tree/feature-back-end) for the backend.**
 
 ## 🛠 Built With <a name="built-with"></a>
 
