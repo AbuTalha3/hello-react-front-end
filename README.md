@@ -31,7 +31,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- [React](https://react.dev/) - React is a JavaScript library used for building the front end of the application.
+- [React](https://react.dev/) - React is a `JavaScript` library used for building the front end of the application.
 
 <!-- FEATURES -->
 
