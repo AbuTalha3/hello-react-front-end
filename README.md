@@ -70,7 +70,7 @@ Install this project with:
   npm install
 ```
 
-it will install the required gemfile for running the project
+it will install the required `Gemfile` for running the project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
