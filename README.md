@@ -49,9 +49,9 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project, you need to have the following installed:
+To run this project, you need to have the following installed:
 
-- **React:** React is a JavaScript library used for building the frontend of the application. You can learn more about React at [React](https://react.dev/).
+- **React:** React is a JavaScript library used for building the `front end` of the application. You can learn more about React at [React](https://react.dev/).
 
 ### Setup
 
